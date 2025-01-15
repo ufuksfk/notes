@@ -5,6 +5,7 @@ publisher: "[[Sürdürülebilir Yaşam Okulu]]"
 published_date: 2024-04-30
 tags:
 ---
+publisher: "[[Sürdürülebilir Yaşam Okulu]]"
 
 
 ## Highlights

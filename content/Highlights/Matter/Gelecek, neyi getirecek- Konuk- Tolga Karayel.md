@@ -5,6 +5,7 @@ publisher: "[[Esmiyor]]"
 published_date: 2024-07-05
 tags:
 ---
+publisher: "[[Esmiyor]]"
 
 
 ## Highlights

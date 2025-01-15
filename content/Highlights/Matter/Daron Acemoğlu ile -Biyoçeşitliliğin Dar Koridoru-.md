@@ -5,6 +5,7 @@ publisher: "[[Antroposen Sohbetler]]"
 published_date: 2022-08-09
 tags:
 ---
+publisher: "[[Antroposen Sohbetler]]"
 
 
 ## Highlights

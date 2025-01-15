@@ -5,6 +5,7 @@ publisher: "[[Açık Bilim Podcast]]"
 published_date: 2024-02-26
 tags:
 ---
+publisher: "[[Açık Bilim Podcast]]"
 
 
 ## Highlights

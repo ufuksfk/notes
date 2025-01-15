@@ -6,6 +6,7 @@ published_date: 2023-12-12
 tags:
   - "acik-bilinc"
 ---
+publisher: "[[Açık Bilinç]]"
 
 
 ## Highlights

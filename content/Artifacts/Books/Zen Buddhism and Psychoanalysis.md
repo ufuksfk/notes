@@ -5,7 +5,7 @@ subtitle: ""
 pages: 188
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355392804l/25493.jpg
 review: ""
-datePublished: "[[1959-01-01]]"
+datePublished: "[[1959]]"
 dateRead: "[[2024-12-26]]"
 rating: "3"
 avgRating: "4.03"

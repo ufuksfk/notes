@@ -5,6 +5,7 @@ publisher: "[[Climate Confident]]"
 published_date: 2024-07-03
 tags:
 ---
+publisher: "[[Climate Confident]]"
 
 
 ## Highlights

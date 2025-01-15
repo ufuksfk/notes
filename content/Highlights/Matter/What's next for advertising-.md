@@ -5,6 +5,7 @@ publisher: "[[Another Podcast]]"
 published_date: 2022-06-06
 tags:
 ---
+publisher: "[[Another Podcast]]"
 
 
 ## Highlights

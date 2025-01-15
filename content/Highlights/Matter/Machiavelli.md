@@ -5,6 +5,7 @@ publisher: "[[Dan Snow's History Hit]]"
 published_date: 2020-07-03
 tags:
 ---
+publisher: "[[Dan Snow's History Hit]]"
 
 
 ## Highlights

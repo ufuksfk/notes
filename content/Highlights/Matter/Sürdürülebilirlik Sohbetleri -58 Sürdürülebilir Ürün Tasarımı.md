@@ -5,6 +5,7 @@ publisher: "[[Sürdürülebilirliği Konuşalım]]"
 published_date: 2024-05-09
 tags:
 ---
+publisher: "[[Sürdürülebilirliği Konuşalım]]"
 
 
 ## Highlights

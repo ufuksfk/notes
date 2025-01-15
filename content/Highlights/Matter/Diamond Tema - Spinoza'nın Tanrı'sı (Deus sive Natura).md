@@ -5,6 +5,7 @@ publisher: "[[Diamond Tema Videoları]]"
 published_date: 2023-03-07
 tags:
 ---
+publisher: "[[Diamond Tema Videoları]]"
 
 
 ## Highlights

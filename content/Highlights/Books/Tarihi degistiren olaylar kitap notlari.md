@@ -1,0 +1,13 @@
+---
+title: Tarihi Degistiren olaylar kitap notlari
+draft: 
+tags:
+  - highlight/book
+link:
+---
+## [[Magna Carta]]
+Monarşinin acziyeti Magna Carta'yı doğuruyor. Aslan Yürekli richard öldüğünde yerine iki aday vardı; John ve normandiya'daki yeğeni arthur. John, Arthur'u yakalatıp hapse attı ve kendisinden bir daha haber alınamadı. John, başarısız bir liderdi. Bardağı taşıran damla olarak Normandiya ve Poitou'yu almak için vergileri arttırdı. [[1215]] yılında lordlar anlaşmayı krala zorla imzalattı. Belalı 61. madde yüzünden ilk fırsatta anlaşmayı tanımayan John, [[United Kingdom]]'yi [[birinci lordlar savaşı]]na sürükledi. John, 1216'da dizanteriden ölünce yerine oğlu çocuk kral geçti. [[1217]] yılında kral naipleri tarafından imzalanan [[Magna Carta]],[[1225]] yılında 18 yaşına gelen Henry tarafından da onaylandı. [[Magna Carta]], bazı politik özgürlükleri garanti altına alıyor, monarşiden bağımsız bir kilise kurulmasını öngören maddeler içeriyor, adaleti ve kanunu üstün tutarak kraliyetin faaliyetlerine sınırlama getiriyordu. Kelimesi kelimesine [[1100]] yılındaki Özgürlükler Anlaşması'nın bir kopyasıydı. [[1957]] yılında Amerikan Barolar Birliği, Runnymede'de bir anıt inşa ederek Amerika'nın kanunları ve anayasasını [[Magna Carta]]'ya borçlu olduğunu kabul etti. [[Magna Carta]] [[1297]] versiyonu, sadece giriş kısmı, üç maddesi ve sonuç kısmı yürürlükte olmasına rağmen hala ingiliz hukukunun bir parçasıdır. Başkan Roosevelt'in eşi [[Eleanor Roosevelt]], İnsan haklari evrensel beyannamesi'ni [[Magna Carta]]'nın tüm insanlığa hitap eden şekli olarak tanımlamıştır.
+
+## Ronesans
+
+Pozitif akıl, skolastik akla galip gelmiş, Avrupa o gıpta ile izlenen teknolojik zıplamasını gerçekleştirmiştir. Yani, dinin yerine bilim geçmiştir. Ana hatları ile; Yeryüzü ilginçtir, araştırılmalıdır. İnsanoğlu güçlüdür ve çok şey başarabilir. Özellikle de aklıyla. İnsanın sürekli faal olması onurlu bir iştir, sürekli çalışılması araştırılmalıdır. Dahası gerçek olan güzeldir. [[Raphael]] eseri [[Atina Okulu]] Marksist tarihçiler, rönesans'ı avrupa toplumunun büyük bir kısmı ortaçağ'da kalırken; küçük, varlıklı ve güçlü bir grubun sanat ve felsefe alanında gerçekleşen değişimlerden etkilendiği sahte devrim olarak tanımlar. [[Ronesans]]; Fransa'da sanat, Almanya'da dini tablo ve resimler, İngiltere'de edebiyat, İspanya'da resim ve edebiyat alanında kendini gösterdi. William Shakespeare, Mıguel de Cervantes dönemin parlak yıldızlarıdır. [[16th century]] olgunluğuna ulaşan rönesans, da vinci, [[Michalengelo]] [[Raphael]] gibi sanatçıların doğuşuna zemin hazırladı.

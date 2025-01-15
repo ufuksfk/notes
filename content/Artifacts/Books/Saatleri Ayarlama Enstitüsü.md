@@ -5,7 +5,7 @@ subtitle: ""
 pages: 395
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377766980l/2040424.jpg
 review: ""
-datePublished: "[[1954-01-01]]"
+datePublished: "[[1954]]"
 dateRead: "[[]]"
 rating: "0"
 avgRating: "4.45"

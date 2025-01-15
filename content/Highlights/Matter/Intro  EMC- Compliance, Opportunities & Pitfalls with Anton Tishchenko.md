@@ -5,6 +5,7 @@ publisher: "[[OnTrack: The PCB Design Podcast]]"
 published_date: 2024-05-01
 tags:
 ---
+publisher: "[[OnTrack: The PCB Design Podcast]]"
 
 
 ## Highlights

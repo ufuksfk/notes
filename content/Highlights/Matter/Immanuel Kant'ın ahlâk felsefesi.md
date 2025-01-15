@@ -5,6 +5,7 @@ publisher: "[[YEAL FELSEFE]]"
 published_date: 2023-05-19
 tags:
 ---
+publisher: "[[YEAL FELSEFE]]"
 
 
 ## Highlights

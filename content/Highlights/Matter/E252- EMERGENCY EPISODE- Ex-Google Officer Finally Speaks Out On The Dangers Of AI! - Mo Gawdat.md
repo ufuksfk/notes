@@ -5,6 +5,7 @@ publisher: "[[The Diary Of A CEO with Steven Bartlett]]"
 published_date: 2023-06-01
 tags:
 ---
+publisher: "[[The Diary Of A CEO with Steven Bartlett]]"
 
 
 ## Highlights

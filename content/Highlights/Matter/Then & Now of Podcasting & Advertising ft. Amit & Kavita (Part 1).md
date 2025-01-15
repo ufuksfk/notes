@@ -5,6 +5,7 @@ publisher: "[[Advertising is Dead: It's all Business with Varun Duggirala]]"
 published_date: 2022-11-16
 tags:
 ---
+publisher: "[[Advertising is Dead: It's all Business with Varun Duggirala]]"
 
 
 ## Highlights

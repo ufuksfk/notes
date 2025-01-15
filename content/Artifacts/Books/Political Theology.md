@@ -5,7 +5,7 @@ subtitle: Four Chapters on the Concept of Sovereignty
 pages: 121
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488587270l/279246.jpg
 review: ""
-datePublished: "[[1922-01-01]]"
+datePublished: "[[1922]]"
 dateRead: "[[]]"
 rating: "0"
 avgRating: "3.94"

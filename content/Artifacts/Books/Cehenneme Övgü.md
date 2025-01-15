@@ -5,7 +5,7 @@ subtitle: Gündelik Hayatta Totalitarizm
 pages: 279
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510052320l/6902351._SY475_.jpg
 review: ""
-datePublished: "[[1992-01-01]]"
+datePublished: "[[1992]]"
 dateRead: "[[]]"
 rating: "4"
 avgRating: "4.3"

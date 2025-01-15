@@ -5,7 +5,7 @@ subtitle: ""
 pages: 96
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594415897l/53438020._SY475_.jpg
 review: ""
-datePublished: "[[1647-01-01]]"
+datePublished: "[[1647]]"
 dateRead: "[[]]"
 rating: "3"
 avgRating: "3.97"

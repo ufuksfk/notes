@@ -5,6 +5,7 @@ publisher: "[[Bir Yaşam Felsefesi Olarak Girişimcilik]]"
 published_date: 2023-12-23
 tags:
 ---
+publisher: "[[Bir Yaşam Felsefesi Olarak Girişimcilik]]"
 
 
 ## Highlights

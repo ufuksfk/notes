@@ -5,6 +5,7 @@ publisher: "[[Fularsız Entellik]]"
 published_date: 2023-12-06
 tags:
 ---
+publisher: "[[Fularsız Entellik]]"
 
 
 ## Highlights

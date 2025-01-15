@@ -5,6 +5,7 @@ publisher: "[[Evrim Ağacı ile Bilime Dair Her Şey!]]"
 published_date: 2024-04-06
 tags:
 ---
+publisher: "[[Evrim Ağacı ile Bilime Dair Her Şey!]]"
 
 
 ## Highlights

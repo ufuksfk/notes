@@ -5,6 +5,7 @@ publisher: "[[Dünyaya Fırlatıldık]]"
 published_date: 2024-01-16
 tags:
 ---
+publisher: "[[Dünyaya Fırlatıldık]]"
 
 
 ## Highlights

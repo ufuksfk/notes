@@ -5,6 +5,7 @@ publisher: "[[Pelin Granger ile Persona Podcast]]"
 published_date: 2023-07-21
 tags:
 ---
+publisher: "[[Pelin Granger ile Persona Podcast]]"
 
 
 ## Highlights

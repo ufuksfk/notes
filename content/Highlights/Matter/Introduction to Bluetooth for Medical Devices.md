@@ -6,6 +6,7 @@ publisher: "[[orthogonal.io]]"
 published_date: 2023-07-26
 tags:
 ---
+publisher: "[[orthogonal.io]]"
 
 
 ## Highlights

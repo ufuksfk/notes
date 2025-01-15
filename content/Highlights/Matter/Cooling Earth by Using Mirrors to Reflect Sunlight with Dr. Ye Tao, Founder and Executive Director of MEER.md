@@ -5,6 +5,7 @@ publisher: "[[Hardware to Save a Planet]]"
 published_date: 2024-07-18
 tags:
 ---
+publisher: "[[Hardware to Save a Planet]]"
 
 
 ## Highlights

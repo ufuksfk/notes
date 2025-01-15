@@ -5,7 +5,7 @@ subtitle: ""
 pages: 508
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333655482l/13579775.jpg
 review: ""
-datePublished: "[[2007-01-01]]"
+datePublished: "[[2007]]"
 dateRead: "[[2018-05-01]]"
 rating: "4"
 avgRating: "3.86"

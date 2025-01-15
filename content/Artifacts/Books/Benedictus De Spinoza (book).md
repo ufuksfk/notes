@@ -24,3 +24,5 @@ tags:
   - artifacts/book
 ---
 #  Benedictus De Spinoza
+
+A book about [[Baruch Spinoza]]

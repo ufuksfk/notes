@@ -5,6 +5,7 @@ publisher: "[[Yeni Medya 451]]"
 published_date: 2023-12-15
 tags:
 ---
+publisher: "[[Yeni Medya 451]]"
 
 
 ## Highlights

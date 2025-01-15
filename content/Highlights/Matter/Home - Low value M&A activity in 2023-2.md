@@ -5,6 +5,7 @@ publisher: "[[medicaldevice-network.com]]"
 published_date: 2024-01-16
 tags:
 ---
+publisher: "[[medicaldevice-network.com]]"
 
 
 ## Highlights

@@ -5,6 +5,7 @@ publisher: "[[COSMO TÜRKÇE – Almanya'da öne çıkan konularda bilgilendiric
 published_date: 2024-01-19
 tags:
 ---
+publisher: "[[COSMO TÜRKÇE – Almanya'da öne çıkan konularda bilgilendirici Türkçe podcast]]"
 
 
 ## Highlights

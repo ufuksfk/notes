@@ -6,7 +6,7 @@ pages: 262
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673208061l/75657213.jpg
 review: ""
 datePublished: "[[2016]]"
-dateRead: "[[]]"
+dateRead: "[[2025-01-05]]"
 rating: "0"
 avgRating: "4.11"
 isbn: "6256353048"
@@ -21,8 +21,11 @@ description: |-
 shelves:
   - " philosophy-books"
   - " psychology-books"
-  - currently-reading
+  - read
 tags:
   - artifacts/book
+  - book-to-read-again
 ---
-#  Mutlu Olma Cesareti
+This is the second book of [[The Courage to Be Disliked]] and they both worth reading again but this time physically.
+
+I listened to this audiobook and take notes to [[mutlu olma cesareti sesli kitap notlari]]

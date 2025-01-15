@@ -5,6 +5,7 @@ publisher: "[[Açık Gazete]]"
 published_date: 2024-05-17
 tags:
 ---
+publisher: "[[Açık Gazete]]"
 
 
 ## Highlights

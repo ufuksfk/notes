@@ -5,6 +5,7 @@ publisher: "[[Ortamlarda Satılacak Bilgi]]"
 published_date: 2021-10-20
 tags:
 ---
+publisher: "[[Ortamlarda Satılacak Bilgi]]"
 
 
 ## Highlights

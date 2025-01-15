@@ -5,6 +5,7 @@ publisher: "[[Hiçbir Şey Tesadüf Değil]]"
 published_date: 2024-03-21
 tags:
 ---
+publisher: "[[Hiçbir Şey Tesadüf Değil]]"
 
 
 ## Highlights

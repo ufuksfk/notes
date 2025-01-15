@@ -5,16 +5,17 @@ publisher: "[[Açık Bilinç]]"
 published_date: 2024-07-23
 tags:
 ---
+publisher: "[[Açık Bilinç]]"
 
 
 ## Highlights
-* [[2024-07-30]] 12:17  Biz eğer bunu öğrenip kullanabilirsek, becerebilirsek, işte ne bileyim yani böcek zehri kullanmak yerine, bu konuları Bülent Şık’la tartışmıştık epey bir zaman, başka türlü zararları olacak maddeler kullanmak yerine, bitkilerin kendi baş etme yöntemlerini aslında destekleyerek gezegen içinde iyi bir şey yapabiliyor olabiliriz.
-
-* [[2024-07-30]] 10:49  Evet, ben bugün yeni okuduğum Mayıs ayında yayınlanan The Light Eaters’i bir kitaptan bahsetmek istiyorum. Işık Yiyiciler. Bir de alt başlığı var.
-
 * [[2024-07-30]] 12:17  Biz eğer bunu öğrenip kullanabilirsek, becerebilirsek, işte ne bileyim yani böcek zehri kullanmak yerine, bu konuları Bülent Şık’la tartışmıştık epey bir zaman, başka türlü zararları olacak maddeler kullanmak yerine, bitkilerin kendi baş etme yöntemlerini aslında destekleyerek gezegen içinde iyi bir şey yapabiliyor olabiliriz. Beni doğrusu bu kitapta en çok bu heyecanlandırdı. Bu konuda üstünde duracağım.
 
 * [[2024-07-30]] 12:07  Bir arada işte çok ünlü olan, bizim de ismen bildiğimiz Carl Sagan’ın eşiydi, evlilerdi.
+
+* [[2024-07-30]] 10:49  Evet, ben bugün yeni okuduğum Mayıs ayında yayınlanan The Light Eaters’i bir kitaptan bahsetmek istiyorum. Işık Yiyiciler. Bir de alt başlığı var.
+
+* [[2024-07-30]] 12:17  Biz eğer bunu öğrenip kullanabilirsek, becerebilirsek, işte ne bileyim yani böcek zehri kullanmak yerine, bu konuları Bülent Şık’la tartışmıştık epey bir zaman, başka türlü zararları olacak maddeler kullanmak yerine, bitkilerin kendi baş etme yöntemlerini aslında destekleyerek gezegen içinde iyi bir şey yapabiliyor olabiliriz.
 
 * [[2024-07-30]] 11:13  Ömer Bey, sen söylediğiniz anlamda light eater, bu bitkileri yiyenler için söyleniyor mu? Evet. Veganlar için söyleniyor. Evet, bunu Zoe Schlanger diye genç bir gazeteci, araştırmacı, yazar, bilim yazarı kaleme almış.
 

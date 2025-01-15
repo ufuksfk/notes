@@ -5,6 +5,7 @@ publisher: "[[The Optimistic Outlook]]"
 published_date: 2024-08-01
 tags:
 ---
+publisher: "[[The Optimistic Outlook]]"
 
 
 ## Highlights

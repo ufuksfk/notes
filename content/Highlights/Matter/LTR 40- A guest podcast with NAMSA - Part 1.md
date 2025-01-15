@@ -5,6 +5,7 @@ publisher: "[[Let's Talk Risk! with Dr. Naveen Agarwal]]"
 published_date: 2024-02-16
 tags:
 ---
+publisher: "[[Let's Talk Risk! with Dr. Naveen Agarwal]]"
 
 
 ## Highlights

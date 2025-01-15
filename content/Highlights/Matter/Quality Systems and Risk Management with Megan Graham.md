@@ -5,6 +5,7 @@ publisher: "[[Yale Certificate in Medical Software and Medical AI: Guest Experts
 published_date: 2024-01-23
 tags:
 ---
+publisher: "[[Yale Certificate in Medical Software and Medical AI: Guest Experts]]"
 
 
 ## Highlights

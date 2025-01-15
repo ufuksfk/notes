@@ -5,6 +5,7 @@ publisher: "[[Sustainable Supply Chain]]"
 published_date: 2024-06-17
 tags:
 ---
+publisher: "[[Sustainable Supply Chain]]"
 
 
 ## Highlights

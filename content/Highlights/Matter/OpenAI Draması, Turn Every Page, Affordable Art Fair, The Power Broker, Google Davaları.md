@@ -5,6 +5,7 @@ publisher: "[[Farklı Düşün]]"
 published_date: 2023-11-26
 tags:
 ---
+publisher: "[[Farklı Düşün]]"
 
 
 ## Highlights

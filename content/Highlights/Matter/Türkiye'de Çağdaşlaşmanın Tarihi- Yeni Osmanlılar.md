@@ -5,6 +5,7 @@ publisher: "[[42 Dakika]]"
 published_date: 2020-09-20
 tags:
 ---
+publisher: "[[42 Dakika]]"
 
 
 ## Highlights

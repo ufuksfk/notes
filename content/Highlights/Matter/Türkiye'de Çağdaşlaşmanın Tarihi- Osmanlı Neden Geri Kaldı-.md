@@ -5,9 +5,14 @@ publisher: "[[42 Dakika]]"
 published_date: 2020-05-18
 tags:
 ---
+publisher: "[[42 Dakika]]"
 
 
 ## Highlights
+* [[2024-07-24]] 06:41  Örneğin Hindistan’dan ithal edilen pamuklu dokumaların yerli üretime darbe vurması karşısında ciddi hiçbir önlem alınmadı.
+
+* [[2024-07-23]] 20:03  İkincisi Osmanlı Avrupa’da yaşanan büyük transformasyona ayak uyduramadı. Kapitalist bir ekonomiye sahip bir sanayi devleti haline dönüşemedi.
+
 * [[2024-07-23]] 19:59  İngiltere altı kıtada hüküm sürüyor, üzerinde güneş batmayan imparatorluk Avustralya’dan Hindistan’a, Kanada’dan Güney Afrika’ya kadar sayısız ülkeyi yönetiyordu.
 
 * [[2024-07-23]] 20:03  Bunun bir sebebi Osmanlı’nın coğrafi konumuyla Avrupa ülkeleri arasında uygulanan denge politikasıysa diğer sebebi de reformların pozitif sonuçlarının verdiği dirençtir.
@@ -36,13 +41,9 @@ tags:
 
 * [[2024-07-24]] 06:56  Mehmet Bulut’a göre 1604 yılında Venedik’ten Halep’e yapılan para havalesi 1.250.000 para birimiyken 1613’te 850.000’e düştü. Artık Hollanda’ya ham maddelerin sadece 5’te 1’i Akdeniz’den, 5’te 4’ü Okyanuslardan ve Rusya’dan ithal ediliyordu.
 
-* [[2024-07-23]] 20:03  İkincisi Osmanlı Avrupa’da yaşanan büyük transformasyona ayak uyduramadı. Kapitalist bir ekonomiye sahip bir sanayi devleti haline dönüşemedi.
-
 * [[2024-07-24]] 07:08  Daha az maliyette daha yüksek ürünü almak, bu ürünleri de daha yüksek karla satmak, sonra bu karı tasarruf ederek biriktirmek kapitalizmin temeliydi. Osmanlı’da verimlilik diye bir konsept de yoktu. Rekabetin getirdiği verimlilik olmayınca üretim de artmıyordu.
 
 * [[2024-07-24]] 07:09  Burada para birimi 1990 uluslararası doları olarak kullanılıyor. Rapora göre 1500 yılında Osmanlı’da kişi başına düşen gelir 600 dolarken İngiltere’de 714 dolar.
-
-* [[2024-07-24]] 06:41  Örneğin Hindistan’dan ithal edilen pamuklu dokumaların yerli üretime darbe vurması karşısında ciddi hiçbir önlem alınmadı.
 
 * [[2024-07-24]] 07:53  Bu kaba tarih anlatısı Osmanlı neden geri kaldı sorusuna da elle tutulur bir cevap vermez. Bize söylenen cevap hemen hemen şöyle bir şey. Osmanlı doğa sınırlarına ulaştı, artık ordu yeni seferler yapamaz, toprakları işgal edemez hale geldi, ganimet ortadan kalktı, padişahlar zevki sefaya daldı, yeniçeriler bozuldu, Habire ayaklandı. Türkler yönetimden çekildi. Yabancılar iş başına geldi. Aynı dönemde Batılılar da bunu fırsat bildiler. Devlete baskı uyguladılar. Reform adı verilen adımlarla Osmanlı sistemi bozuldu. Her ne kadar vatanını canından çok seven padişahlar özellikle 2. Abdülhamid devleti kurtarmak için elinden geleni yapsa da neticede içerideki hainler iktidara el koydular ve çöküş geldi. Yani konuyu hiç anlamamış.
 

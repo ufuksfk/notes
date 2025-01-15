@@ -5,7 +5,7 @@ subtitle: A Flaw in Human Judgment
 pages: 454
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587l/55339408.jpg
 review: ""
-datePublished: "[[2021-01-01]]"
+datePublished: "[[2021]]"
 dateRead: "[[]]"
 rating: "0"
 avgRating: "3.64"

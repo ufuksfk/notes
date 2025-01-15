@@ -5,22 +5,23 @@ publisher: "[[42 Dakika]]"
 published_date: 2020-07-29
 tags:
 ---
+publisher: "[[42 Dakika]]"
 
 
 ## Highlights
-* [[2024-07-30]] 19:24  Paris’te mali eğitim gördü, batılı tarzda ilk tiyatro eserini Türkçe’ye kazandırdı, gazete çıkardı, dilde sadeleşmenin öncülüğünü yaptı.
-
-* [[2024-07-25]] 14:47  O harita gerçeği göstermiyor. Mısır’ı o zaman Osmanlı yönetmiyor. Kavalalı Mehmet Ali Paşa yönetiyor.
-
 * [[2024-07-25]] 15:01  Mahmud, Kavalalı Mehmet Paşa’nın Osmanlı ordusunu 4 saatte halk ile yeksan ettiği haberini öğrenemeden hayatını kaybetti. Yerine gayet yakışıklı bir padişah olan Abdülmecit geçti.
 
 * [[2024-07-25]] 12:04  Osmanlı’nın ideolojisi nizam-ı alem. İdeolojinin temeli dünyanın belli, değişmez, sabit bir düzeni olduğu, o düzende de her şeyin yerli yerinde bulunduğu inancına dayanıyor.
 
+* [[2024-07-25]] 12:08  Osmanlı’nın bir varlık ve yokluk savaşına düştüğünü, çağdaşlaşma projesinin de Osmanlı’nın hayatta kalma mücadelesine verdiği isim olduğunu hatırımızda tutmak zorundayız.
+
+* [[2024-07-25]] 14:47  O harita gerçeği göstermiyor. Mısır’ı o zaman Osmanlı yönetmiyor. Kavalalı Mehmet Ali Paşa yönetiyor.
+
+* [[2024-07-30]] 19:24  Paris’te mali eğitim gördü, batılı tarzda ilk tiyatro eserini Türkçe’ye kazandırdı, gazete çıkardı, dilde sadeleşmenin öncülüğünü yaptı.
+
 * [[2024-07-30]] 19:24  Fakat bu yolda giderken kurulan Galatasaray Lisesi daha sonra üniversite hüviyetine kavuştu ve Türkiye’ye önemli hizmetler vermeye başladı. Şimdi Cevdet Paşa gibi başka önemli insanlar da tanzimat dönemine damgalarını vurdular.
 
 * [[2024-07-30]] 16:52  Bu projenin başında da dönemi süper gücü İngiltere’den İstanbul’a dönen Mustafa Reşit Paşa var. Mustafa Reşit Paşa’nın iki amacı vardı.
-
-* [[2024-07-25]] 12:08  Osmanlı’nın bir varlık ve yokluk savaşına düştüğünü, çağdaşlaşma projesinin de Osmanlı’nın hayatta kalma mücadelesine verdiği isim olduğunu hatırımızda tutmak zorundayız.
 
 * [[2024-07-25]] 15:02  Osmanlı ise çıkarları birbiriyle çatışan çeşitli Avrupa devletlerinin vesayeti altına girip yarı sömürge durumuna düştü.
 

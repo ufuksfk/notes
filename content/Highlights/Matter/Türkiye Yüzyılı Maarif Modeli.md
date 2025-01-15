@@ -5,6 +5,7 @@ publisher: "[[Açık Bilinç]]"
 published_date: 2024-05-07
 tags:
 ---
+publisher: "[[Açık Bilinç]]"
 
 
 ## Highlights

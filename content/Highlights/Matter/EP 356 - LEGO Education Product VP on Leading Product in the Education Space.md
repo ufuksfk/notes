@@ -5,6 +5,7 @@ publisher: "[[Product Talk]]"
 published_date: 2023-12-20
 tags:
 ---
+publisher: "[[Product Talk]]"
 
 
 ## Highlights

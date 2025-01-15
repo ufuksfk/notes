@@ -5,6 +5,7 @@ publisher: "[[Tertemiz Kafa]]"
 published_date: 2023-09-14
 tags:
 ---
+publisher: "[[Tertemiz Kafa]]"
 
 
 ## Highlights

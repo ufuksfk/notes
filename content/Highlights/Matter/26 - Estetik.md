@@ -5,6 +5,7 @@ publisher: "[[Politik Yanlış]]"
 published_date: 2024-01-24
 tags:
 ---
+publisher: "[[Politik Yanlış]]"
 
 
 ## Highlights

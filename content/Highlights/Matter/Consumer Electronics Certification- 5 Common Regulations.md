@@ -6,6 +6,7 @@ publisher: "[[integrasources.com]]"
 tags:
   - "certification"
 ---
+publisher: "[[integrasources.com]]"
 
 
 ## Highlights

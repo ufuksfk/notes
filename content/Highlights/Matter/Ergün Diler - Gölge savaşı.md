@@ -7,6 +7,7 @@ published_date: 2024-07-30
 tags:
   - "kose-yazisi"
 ---
+publisher: "[[takvim.com.tr]]"
 
 
 ## Highlights

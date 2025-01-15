@@ -5,6 +5,7 @@ publisher: "[[Stoacı Yaşam Felsefesi]]"
 published_date: 2024-01-11
 tags:
 ---
+publisher: "[[Stoacı Yaşam Felsefesi]]"
 
 
 ## Highlights

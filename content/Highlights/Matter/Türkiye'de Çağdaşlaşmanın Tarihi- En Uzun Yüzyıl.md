@@ -5,14 +5,11 @@ publisher: "[[42 Dakika]]"
 published_date: 2020-06-03
 tags:
 ---
+publisher: "[[42 Dakika]]"
 
 
 ## Highlights
-* [[2024-07-24]] 22:11  Üsküdar ve Galata’dan gürük gürü hamal, deveci, arnavut, işsiz, abuk subuk takımları Lazlar’a katılarak koca bir kalabalık haline geldi. İstanbul şehrinde ne kadar hamal, tellak, ırgat ve Türk makulesi, anlayıştan yoksun, Pis ve rezil boş gezen varsa peşlerine takıldı.
-
 * [[2024-07-24]] 13:06  Arkasından başlayan lale devri bir esnaf yeniçeri ayaklanmasıyla son buldu. Padişah tahtı bırakıp canını zor kurtarmıştı. Anadolu ve Rumeli’de ayanlar ve derebeyleri egemenliği eline almıştı.
-
-* [[2024-07-24]] 22:12  Saat dört sularında saray burnunda top sesleri duyulmaya başladı. Herkes üçüncü Selim’in tekrar tahta döndüğünü düşünüyordu.
 
 * [[2024-07-24]] 16:24  Bütün Anadolu’da Yeniçeriler halka faize borç veren, bek tahşilik çerçevesinde örgütlenen, yukarıda ulema ve diğer kapı kulları ile koalisyon kurup askeri bir güçten siyasi ve ekonomik bir güce dönüşen bir yapı haline gelmişti.
 
@@ -27,6 +24,10 @@ tags:
 * [[2024-07-24]] 21:24  Kabul edilmesi halinde Cedid nizam yani yeni düzen asker alayları kurmak üzere subay eğitimini ve yetiştirmesini de üstlendi. Kendilerinin Osmanlı’nın baş düşmanı olan Katoliklerin de düşmanı olduklarını, çok ağır zulme uğradıklarını söyledi.
 
 * [[2024-07-24]] 22:09  Padişah çevresinde önce 3, daha sonra 12’ye kadar çıkan küçük bir kadro gizli kabine gibi çalışmaya başladı. 72 maddeden oluşan bir plan çıkartıldığı anlaşılıyor. Ama bu planın ne olduğunu bilmiyoruz.
+
+* [[2024-07-24]] 22:12  Saat dört sularında saray burnunda top sesleri duyulmaya başladı. Herkes üçüncü Selim’in tekrar tahta döndüğünü düşünüyordu.
+
+* [[2024-07-24]] 22:11  Üsküdar ve Galata’dan gürük gürü hamal, deveci, arnavut, işsiz, abuk subuk takımları Lazlar’a katılarak koca bir kalabalık haline geldi. İstanbul şehrinde ne kadar hamal, tellak, ırgat ve Türk makulesi, anlayıştan yoksun, Pis ve rezil boş gezen varsa peşlerine takıldı.
 
 * [[2024-07-25]] 08:39  1776'da Amerika'da bağımsızlık bildirgesi ilan edildi. Şöyle yazıyordu. Aşağıdaki gerçekler bizim için açıktır. Tüm insanlar eşit yaratılmıştır ve Tanrı tarafından kendilerine verilen belli bazı vazgeçilemez, devredilemez haklara sahiptir. Yaşama, özgürlük ve kendi mutluluğunu arama hakkı da bunların arasındadır. Bunun ne kadar devrimci olduğunu düşünmek lazım. Yüzyıllar sonra ilk kez sıradan insanlar yönetime el koyuyordu. Çobanı olmayan bir sürü. Sadece anayasa dedikleri bir kağıt parçasına dayanan bir cumhuriyet. Respublica yani latince halkın malı. Kral, soylu, asil olmayan bir ülke. Ama bu fikirler zaten Avrupa'da olgunlaşmış durumdaydı. Aynı yıl Adam Smith ulusların zenginliğini yayınladı. Immanuel Kant saf aklın eleştirisiyle geldi.
 

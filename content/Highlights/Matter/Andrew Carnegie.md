@@ -6,6 +6,7 @@ published_date: 2018-03-26
 tags:
   - "carnegie"
 ---
+publisher: "[[Stuff You Missed in History Class]]"
 
 
 ## Highlights

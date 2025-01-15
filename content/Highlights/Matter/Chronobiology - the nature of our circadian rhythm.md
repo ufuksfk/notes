@@ -6,6 +6,7 @@ published_date: 2021-12-12
 tags:
   - "sustainability"
 ---
+publisher: "[[Sustainable Lighting Design]]"
 
 
 ## Highlights

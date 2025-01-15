@@ -6,6 +6,7 @@ publisher: "[[electronicdesign.com]]"
 published_date: 2019-07-23
 tags:
 ---
+publisher: "[[electronicdesign.com]]"
 
 
 ## Highlights

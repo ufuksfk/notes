@@ -7,7 +7,7 @@ tags:
   - highlight/youtube
 draft:
 ---
-This relates to [[[Zen]]]
+This relates to [[Zen]]
 ![image.png](image.png)
 
 [[Martin Heidegger]] ve [[Daisetsu Suzuki]]

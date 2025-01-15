@@ -5,14 +5,21 @@ publisher: "[[42 Dakika]]"
 published_date: 2020-08-13
 tags:
 ---
+publisher: "[[42 Dakika]]"
 
 
 ## Highlights
-* [[2024-07-30]] 20:22  Mahmud Bektaşi tarikatına da diyor ki diğer tarikatları da beslemesi lazım ya. Kardeşim gidin Bektaş tarikatının malına mülküne el koyun diyor bu FETÖ’ye yapılan gibi. Neticede bunlar da tarikatlar da güçleniyorlar tamam mı?
-
 * [[2024-07-30]] 20:35  Daha deist, ateist yazarlara, filozoflara inanılmaz bilgi var. Dolayısıyla bu insan tipi Avrupa’ya gidiyor sonra.
 
+* [[2024-07-30]] 20:22  Mahmud Bektaşi tarikatına da diyor ki diğer tarikatları da beslemesi lazım ya. Kardeşim gidin Bektaş tarikatının malına mülküne el koyun diyor bu FETÖ’ye yapılan gibi. Neticede bunlar da tarikatlar da güçleniyorlar tamam mı?
+
+* [[2024-07-30]] 20:26  En son tıp fakültesini açtığında Fransızca eğitim verdiriyor ya. Franklin’in de eğitimi verdiriyor. Bu tarikatlar da kendilerini kandırılmış hissediyorlar.
+
+* [[2024-07-30]] 20:53  Yani ne demek istiyor biliyor musun? Ben de bir Asya’yı devlet kuracağım. O da diğer devletler gibi bir devlettir.
+
 * [[2024-07-30]] 20:57  Abdülmecid’in ortaya koyduğu bir ilkeli duruş, Avrupa’da bile ancak oturmuş devlet yönetimlerinde olan bir şeydir.
+
+* [[2024-07-30]] 20:53  İki, diyor ki ben değişmeyecek bir sistem kurmak istiyorum diyor. Lord Palmer Stone’a yazmış bunu. Ne, neden? Diyor ki kardeşim bu devlette de sizdeki gibi bir sistem olacak.
 
 * [[2024-07-30]] 20:22  İstanbul halkı da peşine koşuyor. İstanbul halkı Yeniçeri’lerden yaka sıkmış zaten. Her tür rezillik var. Yeniçeri, son döneminde Reşat Ekrem koçu çok güzel anlatır.
 
@@ -25,12 +32,6 @@ tags:
 * [[2024-07-30]] 20:30  O zamanın pek çok Padişah’ı, Şehzadesi vs. bugün Moşer diye aşağılanır, bugün Aktroli’nin diline düşerse Allah korusun düşünemiyorum onların. O dönemde böyle bir ana kronik bir hikaye yaşasak büyük komedi olur yani. Ya dolayısıyla öyle gazozuna Osmanlı olunmuyor.
 
 * [[2024-07-30]] 20:32  İşte kadın dergileri var, onlarca kadın dergisi. Bir dönem o dönemlerde işte Ermenice yayınlar… İstanbul’da bugün dünyada kullanılan 14 alfabenin 7’siyle 22 dille kitap basılmış yani.
-
-* [[2024-07-30]] 20:53  İki, diyor ki ben değişmeyecek bir sistem kurmak istiyorum diyor. Lord Palmer Stone’a yazmış bunu. Ne, neden? Diyor ki kardeşim bu devlette de sizdeki gibi bir sistem olacak.
-
-* [[2024-07-30]] 20:53  Yani ne demek istiyor biliyor musun? Ben de bir Asya’yı devlet kuracağım. O da diğer devletler gibi bir devlettir.
-
-* [[2024-07-30]] 20:26  En son tıp fakültesini açtığında Fransızca eğitim verdiriyor ya. Franklin’in de eğitimi verdiriyor. Bu tarikatlar da kendilerini kandırılmış hissediyorlar.
 
 * [[2024-07-30]] 20:18  Yani kamu arazisini satın almış, oradan vergi toplayan derebeyleri olmuşlar. Artık AYM dediğimiz o.
 

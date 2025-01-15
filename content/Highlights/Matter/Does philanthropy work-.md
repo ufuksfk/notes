@@ -5,6 +5,7 @@ publisher: "[[The Real Story]]"
 published_date: 2020-01-17
 tags:
 ---
+publisher: "[[The Real Story]]"
 
 
 ## Highlights

@@ -6,6 +6,7 @@ publisher: "[[iiot-world.com]]"
 published_date: 2023-01-31
 tags:
 ---
+publisher: "[[iiot-world.com]]"
 
 
 ## Highlights

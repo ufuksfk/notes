@@ -5,6 +5,7 @@ publisher: "[[Belleğin Lambası]]"
 published_date: 2024-02-02
 tags:
 ---
+publisher: "[[Belleğin Lambası]]"
 
 
 ## Highlights

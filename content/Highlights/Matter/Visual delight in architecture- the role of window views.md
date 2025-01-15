@@ -5,6 +5,7 @@ publisher: "[[Sustainable Lighting Design]]"
 published_date: 2022-01-05
 tags:
 ---
+publisher: "[[Sustainable Lighting Design]]"
 
 
 ## Highlights

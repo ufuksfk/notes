@@ -5,6 +5,7 @@ publisher: "[[Bilim Kurgu Mu Bilim Gelecek Mi?]]"
 published_date: 2022-05-30
 tags:
 ---
+publisher: "[[Bilim Kurgu Mu Bilim Gelecek Mi?]]"
 
 
 ## Highlights

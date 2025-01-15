@@ -5,6 +5,7 @@ publisher: "[[Psikiyatri ve Duvarın Ardı]]"
 published_date: 2024-04-15
 tags:
 ---
+publisher: "[[Psikiyatri ve Duvarın Ardı]]"
 
 
 ## Highlights

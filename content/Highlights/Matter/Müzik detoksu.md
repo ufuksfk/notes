@@ -5,6 +5,7 @@ publisher: "[[Uzun Hikâye]]"
 published_date: 2024-06-10
 tags:
 ---
+publisher: "[[Uzun Hikâye]]"
 
 
 ## Highlights

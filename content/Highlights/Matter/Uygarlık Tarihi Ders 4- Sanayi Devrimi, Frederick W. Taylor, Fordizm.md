@@ -5,6 +5,7 @@ publisher: "[[Uygarlık Tarihi Dersleri - Ata Özdemirci]]"
 published_date: 2020-11-03
 tags:
 ---
+publisher: "[[Uygarlık Tarihi Dersleri - Ata Özdemirci]]"
 
 
 ## Highlights

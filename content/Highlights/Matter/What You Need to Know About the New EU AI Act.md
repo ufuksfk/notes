@@ -5,6 +5,7 @@ publisher: "[[Let’s Talk Medtech]]"
 published_date: 2024-05-30
 tags:
 ---
+publisher: "[[Let’s Talk Medtech]]"
 
 
 ## Highlights

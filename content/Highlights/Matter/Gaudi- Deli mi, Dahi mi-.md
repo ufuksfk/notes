@@ -5,6 +5,7 @@ publisher: "[[Dünya Sahnesi]]"
 published_date: 2024-07-31
 tags:
 ---
+publisher: "[[Dünya Sahnesi]]"
 
 
 ## Highlights

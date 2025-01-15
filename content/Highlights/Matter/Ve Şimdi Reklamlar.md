@@ -5,6 +5,7 @@ publisher: "[[Fularsız Entellik]]"
 published_date: 2020-02-01
 tags:
 ---
+publisher: "[[Fularsız Entellik]]"
 
 
 ## Highlights

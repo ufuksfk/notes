@@ -5,6 +5,7 @@ publisher: "[[Farklı Düşün]]"
 published_date: 2024-04-28
 tags:
 ---
+publisher: "[[Farklı Düşün]]"
 
 
 ## Highlights

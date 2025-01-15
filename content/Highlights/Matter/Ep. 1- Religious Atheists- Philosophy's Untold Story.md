@@ -5,6 +5,7 @@ publisher: "[[Becoming Human]]"
 published_date: 2020-03-11
 tags:
 ---
+publisher: "[[Becoming Human]]"
 
 
 ## Highlights

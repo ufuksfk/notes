@@ -5,6 +5,7 @@ publisher: "[[Üretimin Tarihi]]"
 published_date: 2019-12-25
 tags:
 ---
+publisher: "[[Üretimin Tarihi]]"
 
 
 ## Highlights

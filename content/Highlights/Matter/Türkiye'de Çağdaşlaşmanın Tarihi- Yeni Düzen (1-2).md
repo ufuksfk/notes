@@ -5,16 +5,19 @@ publisher: "[[42 Dakika]]"
 published_date: 2020-08-07
 tags:
 ---
+publisher: "[[42 Dakika]]"
 
 
 ## Highlights
 * [[2024-07-30]] 20:14  Yani İbrahim Kalın’ın alenen gözümüzün içine baka baka yalan söylediği şey şu, bitmişti zaten. Tanzimat’tan önce bitmişti.
 
+* [[2024-07-30]] 19:51  Yani Atatürk’e Jacobin falan diyorlar. Meclis restorasyonunun yanında Cumhuriyet dönemi reformları anaokulu sayılır.
+
 * [[2024-07-30]] 20:10  İlk senin anlattığın anlama bakınca, biraz ihtiyacı olan kültürü de işlemeye çalışan, oraya yatırım yapmaya çalışan sanatçıya, aydına, bilime, resme, o kendi ideolojisini körükleyebilecek, toplumun kılcal damarlarını yayılabilecek enstrümanlara yatırım yapmayı bilen bir sınıf oluşuyor diye anlıyorum. Şimdi ben sana şöyle anlatayım. Biz günlük dildeki bourgeois veya bourgeois’dan beklentilerimizle karıştırmayalım.
 
-* [[2024-07-30]] 19:58  O kadar öyle bir hale geliyor ki mesela bu İngiltere o kadar ucuz teknik olarak ve o kadar çok üretmeye başlıyor ki pamuklu konfeksiyon ürünlerini. Sadece İstanbul’da 5000 tane manüfaktör iflas etmek zorunda kalıyor o dönem.
+* [[2024-07-30]] 20:07  Yani adam oturup hanedan ailesi bırakmadığı için Osmanlı, kendisiyle rekabet edebilecek hiçbir aile bırakmadığı için alıyor oradan Sokullu Mehmet Paşa’yı Sırbistan’dan, koyuyor onu sadrazam yapıyor, sonra adam ölüyor gidiyor.
 
-* [[2024-07-30]] 19:46  Osmanlı Padişahları İmparatorluğun çok önemli bir kısmında hiçbir söz hakları yok. Mısır’ı Kavalalı Mehmet Ali Paşa yönetiyor. Cezayir zaten bir Yeniçeri Cumhuriyeti.
+* [[2024-07-30]] 19:58  O kadar öyle bir hale geliyor ki mesela bu İngiltere o kadar ucuz teknik olarak ve o kadar çok üretmeye başlıyor ki pamuklu konfeksiyon ürünlerini. Sadece İstanbul’da 5000 tane manüfaktör iflas etmek zorunda kalıyor o dönem.
 
 * [[2024-07-30]] 19:35  Bir tanesi, bu Can Öz ve Harun Tekin’in yaptığı Anormal Şartlar Altında, zaten en çok dinlenen podcastlerden bir tanesi oldu ama, Eğer kaçıranlar varsa ilk bölümden itibaren onların sohbetine tanıklık etmek ve o sohbetle birlikte amaçlarına uygun olarak bazı konuları yeniden tartışmaya başlamak için güzel bir vesile.
 
@@ -30,9 +33,7 @@ tags:
 
 * [[2024-07-30]] 19:39  Osmanlı’da ekonominin tekrar toparlanması ve kişi başına düşen gelirde, bunu şundan söylüyorum, zenginleşmenin göstergesi. belli bir ivme yakalaması 2. Mahmud sayesinde oluyor.
 
-* [[2024-07-30]] 20:07  Yani adam oturup hanedan ailesi bırakmadığı için Osmanlı, kendisiyle rekabet edebilecek hiçbir aile bırakmadığı için alıyor oradan Sokullu Mehmet Paşa’yı Sırbistan’dan, koyuyor onu sadrazam yapıyor, sonra adam ölüyor gidiyor.
-
-* [[2024-07-30]] 19:51  Yani Atatürk’e Jacobin falan diyorlar. Meclis restorasyonunun yanında Cumhuriyet dönemi reformları anaokulu sayılır.
+* [[2024-07-30]] 19:46  Osmanlı Padişahları İmparatorluğun çok önemli bir kısmında hiçbir söz hakları yok. Mısır’ı Kavalalı Mehmet Ali Paşa yönetiyor. Cezayir zaten bir Yeniçeri Cumhuriyeti.
 
 * [[2024-07-30]] 19:34  Ama özellikle böyle iyi İngilizcesi olan ya da bunu takip edecek seviyede İngilizcesi olanlar için şu Sam Harrison Making Sense özellikle geçmiş bölümleri çok önemli.
 

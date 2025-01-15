@@ -5,6 +5,7 @@ publisher: "[[Medical Device made Easy Podcast]]"
 published_date: 2024-03-12
 tags:
 ---
+publisher: "[[Medical Device made Easy Podcast]]"
 
 
 ## Highlights

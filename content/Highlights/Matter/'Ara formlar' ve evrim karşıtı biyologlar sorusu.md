@@ -6,6 +6,7 @@ published_date: 2024-01-16
 tags:
   - "acik-bilinc"
 ---
+publisher: "[[Açık Bilinç]]"
 
 
 ## Highlights

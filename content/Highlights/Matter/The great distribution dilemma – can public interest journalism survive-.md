@@ -5,6 +5,7 @@ publisher: "[[Future Tense]]"
 published_date: 2024-04-26
 tags:
 ---
+publisher: "[[Future Tense]]"
 
 
 ## Highlights

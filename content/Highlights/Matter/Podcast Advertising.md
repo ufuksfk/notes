@@ -5,6 +5,7 @@ publisher: "[[Data Skeptic]]"
 published_date: 2022-09-12
 tags:
 ---
+publisher: "[[Data Skeptic]]"
 
 
 ## Highlights

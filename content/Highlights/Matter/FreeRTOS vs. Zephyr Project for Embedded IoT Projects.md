@@ -6,6 +6,7 @@ publisher: "[[lembergsolutions.com]]"
 published_date: 2022-12-07
 tags:
 ---
+publisher: "[[lembergsolutions.com]]"
 
 
 ## Highlights

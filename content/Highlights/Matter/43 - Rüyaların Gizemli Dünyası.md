@@ -5,6 +5,7 @@ publisher: "[[Psikopatika]]"
 published_date: 2023-12-20
 tags:
 ---
+publisher: "[[Psikopatika]]"
 
 
 ## Highlights

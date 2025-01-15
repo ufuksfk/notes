@@ -5,6 +5,7 @@ creator: "[[Mikko Nurmimaki]]"
 publisher: "[[silabs.com]]"
 tags:
 ---
+publisher: "[[silabs.com]]"
 
 
 ## Highlights

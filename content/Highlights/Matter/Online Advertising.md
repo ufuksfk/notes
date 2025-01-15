@@ -5,6 +5,7 @@ publisher: "[[Patented: History of Inventions]]"
 published_date: 2022-11-02
 tags:
 ---
+publisher: "[[Patented: History of Inventions]]"
 
 
 ## Highlights

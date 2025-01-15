@@ -5,6 +5,7 @@ publisher: "[[Açık Mimarlık]]"
 published_date: 2023-08-24
 tags:
 ---
+publisher: "[[Açık Mimarlık]]"
 
 
 ## Highlights

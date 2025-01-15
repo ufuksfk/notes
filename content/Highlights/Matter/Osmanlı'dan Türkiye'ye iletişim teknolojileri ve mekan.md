@@ -5,6 +5,7 @@ publisher: "[[Açık Mimarlık]]"
 published_date: 2024-01-11
 tags:
 ---
+publisher: "[[Açık Mimarlık]]"
 
 
 ## Highlights

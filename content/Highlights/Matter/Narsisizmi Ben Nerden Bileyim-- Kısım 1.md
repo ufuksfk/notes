@@ -5,6 +5,7 @@ publisher: "[[Yakın İlişkiler]]"
 published_date: 2024-04-07
 tags:
 ---
+publisher: "[[Yakın İlişkiler]]"
 
 
 ## Highlights

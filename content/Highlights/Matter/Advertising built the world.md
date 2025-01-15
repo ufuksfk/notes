@@ -5,6 +5,7 @@ publisher: "[[Akimbo: A Podcast from Seth Godin]]"
 published_date: 2021-04-07
 tags:
 ---
+publisher: "[[Akimbo: A Podcast from Seth Godin]]"
 
 
 ## Highlights

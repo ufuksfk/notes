@@ -5,6 +5,7 @@ publisher: "[[Sinematris]]"
 published_date: 2021-11-11
 tags:
 ---
+publisher: "[[Sinematris]]"
 
 
 ## Highlights

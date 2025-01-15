@@ -5,6 +5,7 @@ publisher: "[[Sürdürülebilirliği Konuşalım]]"
 published_date: 2023-11-24
 tags:
 ---
+publisher: "[[Sürdürülebilirliği Konuşalım]]"
 
 
 ## Highlights

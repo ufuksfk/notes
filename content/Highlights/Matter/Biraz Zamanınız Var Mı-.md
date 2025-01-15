@@ -5,6 +5,7 @@ publisher: "[[Haddini Aşan Yaşam Rehberi]]"
 published_date: 2024-03-12
 tags:
 ---
+publisher: "[[Haddini Aşan Yaşam Rehberi]]"
 
 
 ## Highlights

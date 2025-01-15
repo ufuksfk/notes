@@ -5,6 +5,7 @@ publisher: "[[The Knowledge Project with Shane Parrish]]"
 published_date: 2017-02-27
 tags:
 ---
+publisher: "[[The Knowledge Project with Shane Parrish]]"
 
 
 ## Highlights

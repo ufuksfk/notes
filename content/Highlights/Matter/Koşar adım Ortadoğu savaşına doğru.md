@@ -5,6 +5,7 @@ publisher: "[[Ruşen Çakır]]"
 published_date: 2024-07-31
 tags:
 ---
+publisher: "[[Ruşen Çakır]]"
 
 
 ## Highlights

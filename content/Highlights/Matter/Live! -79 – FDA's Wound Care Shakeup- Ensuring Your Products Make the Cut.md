@@ -5,6 +5,7 @@ publisher: "[[Device Advice by RQM+]]"
 published_date: 2024-06-07
 tags:
 ---
+publisher: "[[Device Advice by RQM+]]"
 
 
 ## Highlights

@@ -5,16 +5,17 @@ publisher: "[[Uzun Hikâye]]"
 published_date: 2024-07-15
 tags:
 ---
+publisher: "[[Uzun Hikâye]]"
 
 
 ## Highlights
-* [[2024-07-16]] 07:59  Özellikle her gün dijital platformlara kaç şarkı eklendiğine baktığımız zaman 100.000 şarkı olduğunu görüyoruz. Bu da saniyede bir neredeyse. Şimdi Rick Beato’nun da verdiği örneğe aynen katılıyorum.
-
-* [[2024-07-16]] 07:57  Bu kısımda tüketmesinin daha kolay olmasından dolayı da negatif etkilendiğini düşündüğümü anlatayım. Tekrar söyleyeyim, bu programda bana ilham veren Rick Beato’dur. Onun bu konudaki görüşleri YouTube kanalında var.
+* [[2024-07-16]] 08:02  Geçen gün burada yaşadığım yerde Gent’te Belçika’da bir böyle bit pazarında gördüm.
 
 * [[2024-07-16]] 08:01  Ya da işte Best Of diye ilk çıktığı zaman CD basımları kolaylaştıktan sonra işte Best Of Mozart ya da 40 tane Beethoven ya da işte Best Of Miles Davis’ler çıktığı zaman o zaman fark etmiştim.
 
-* [[2024-07-16]] 08:02  Geçen gün burada yaşadığım yerde Gent’te Belçika’da bir böyle bit pazarında gördüm.
+* [[2024-07-16]] 07:57  Bu kısımda tüketmesinin daha kolay olmasından dolayı da negatif etkilendiğini düşündüğümü anlatayım. Tekrar söyleyeyim, bu programda bana ilham veren Rick Beato’dur. Onun bu konudaki görüşleri YouTube kanalında var.
+
+* [[2024-07-16]] 07:59  Özellikle her gün dijital platformlara kaç şarkı eklendiğine baktığımız zaman 100.000 şarkı olduğunu görüyoruz. Bu da saniyede bir neredeyse. Şimdi Rick Beato’nun da verdiği örneğe aynen katılıyorum.
 
 * [[2024-07-16]] 08:20  Bana göre bu sorun cevabı yani giderek yaygınlaşan teknoloji kullanımı. Bunun için de tabi ki yapay zekâ da giriyor. Bunun için de tabi ki bazı modellemeler, bazı programlar, altyapılar, pluginler de giriyor. Benim cevabım evet maalesef değersizleştirdiği yönünde
 

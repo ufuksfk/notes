@@ -5,7 +5,7 @@ subtitle: ""
 pages: 320
 cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516542074l/13579774._SY475_.jpg
 review: ""
-datePublished: "[[2004-01-01]]"
+datePublished: "[[2004]]"
 dateRead: "[[2018-04-01]]"
 rating: "4"
 avgRating: "3.91"

@@ -5,6 +5,7 @@ publisher: "[[Uzun Hikâye]]"
 published_date: 2023-11-27
 tags:
 ---
+publisher: "[[Uzun Hikâye]]"
 
 
 ## Highlights

@@ -6,6 +6,7 @@ published_date: 2024-03-21
 tags:
   - "sinema"
 ---
+publisher: "[[Sinematris]]"
 
 
 ## Highlights

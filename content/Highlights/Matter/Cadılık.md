@@ -5,6 +5,7 @@ publisher: "[[Nereden Başlasam?]]"
 published_date: 2024-01-18
 tags:
 ---
+publisher: "[[Nereden Başlasam?]]"
 
 
 ## Highlights

@@ -5,6 +5,7 @@ publisher: "[[Trend Topic]]"
 published_date: 2024-08-01
 tags:
 ---
+publisher: "[[Trend Topic]]"
 
 
 ## Highlights

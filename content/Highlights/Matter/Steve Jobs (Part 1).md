@@ -5,6 +5,7 @@ publisher: "[[Alternatif Vizyon]]"
 published_date: 2024-06-24
 tags:
 ---
+publisher: "[[Alternatif Vizyon]]"
 
 
 ## Highlights

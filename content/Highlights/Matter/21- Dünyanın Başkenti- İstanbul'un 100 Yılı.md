@@ -5,6 +5,7 @@ publisher: "[[Bilgisel]]"
 published_date: 2024-03-25
 tags:
 ---
+publisher: "[[Bilgisel]]"
 
 
 ## Highlights

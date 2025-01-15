@@ -5,6 +5,7 @@ publisher: "[[Barış Özcan ile 111 Hz]]"
 published_date: 2023-11-30
 tags:
 ---
+publisher: "[[Barış Özcan ile 111 Hz]]"
 
 
 ## Highlights

@@ -5,6 +5,7 @@ publisher: "[[Paradoks]]"
 published_date: 2020-09-07
 tags:
 ---
+publisher: "[[Paradoks]]"
 
 
 ## Highlights

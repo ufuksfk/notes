@@ -5,6 +5,7 @@ publisher: "[[Hayalperest'in Sesi]]"
 published_date: 2024-04-17
 tags:
 ---
+publisher: "[[Hayalperest'in Sesi]]"
 
 
 ## Highlights

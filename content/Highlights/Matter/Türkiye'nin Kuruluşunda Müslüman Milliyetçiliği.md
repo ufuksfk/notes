@@ -5,6 +5,7 @@ publisher: "[[Bilim ve Düşünce Tarihi Sohbetleri]]"
 published_date: 2022-09-26
 tags:
 ---
+publisher: "[[Bilim ve Düşünce Tarihi Sohbetleri]]"
 
 
 ## Highlights

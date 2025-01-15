@@ -5,6 +5,7 @@ publisher: "[[Yeni Haller]]"
 published_date: 2024-01-25
 tags:
 ---
+publisher: "[[Yeni Haller]]"
 
 
 ## Highlights
